@@ -1,6 +1,6 @@
 {
   "latest_version": "1.0.3+4",
   "apk_url": "https://github.com/ahmedabdou0000011111-debug/shoftv-updates/releases/latest/download/Shoof_TV.apk",
-  "release_notes_ar": "- تحسين رسائل مشاكل التشغيل\n- اكتشاف بطء أو انقطاع الإنترنت\n- إعادة تشغيل القناة تلقائيًا عند رجوع الاتصال",
-  "release_notes_en": "- Improved playback error messages\n- Detect slow or disconnected internet\n- Auto refresh the live channel when the connection returns"
+  "release_notes_ar": "- تحسين جودة وصور كروت الصفحة الرئيسية\n- فصل صور الفون عن صور الشاشة\n- تحسين عرض إعلانات الفون والشاشة\n- إزالة الطبقات الغامقة والبلور من كروت Home\n- تحديث مقاسات الصور المطلوبة في لوحة التحكم",
+  "release_notes_en": "- Improved Home screen card image quality\n- Separated phone images from TV images\n- Improved phone and TV advertisement display\n- Removed dark overlays and blur from Home cards\n- Updated required image size labels in Admin Panel"
 }
